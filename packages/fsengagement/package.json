@@ -11,7 +11,7 @@
     "@types/react-native-video": "^2.0.8",
     "lodash-es": "^4.17.10",
     "prop-types": "^15.6.2",
-    "react": "^16.3.2",
+    "react": "^16.4.2",
     "react-native": "^0.55.4",
     "react-native-device-info": "^0.21.5",
     "react-native-fcm": "16.0.0",
