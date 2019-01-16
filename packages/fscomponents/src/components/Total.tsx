@@ -43,7 +43,7 @@ export interface TotalProps {
 export class Total extends PureComponent<TotalProps> {
   renderData(
     data: string | CurrencyValue | JSX.Element,
-    style?: StyleProp<ViewStyle>
+    style?: StyleProp<TextStyle>
   ): JSX.Element {
     if (typeof data === 'string') {
       return (
